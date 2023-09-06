@@ -9,7 +9,7 @@ function App() {
   
   return (
     <>
-    <div className='min-h-screen w-full bg-east-bay-400'>
+    <div className='min-h-screen w-full bg-salt-box-900'>
     <div className='flex-col justify-center items-center flex px-10'>
       <FotoDiri/>
       <DeskripsiDiri/>
