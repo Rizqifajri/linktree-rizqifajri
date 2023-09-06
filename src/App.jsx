@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <ParticleBg/>
-    <div className='min-h-screen w-full bg-gray-700'>
+    <div className='min-h-screen w-full bg-gray-800'>
     <div className='flex-col justify-center items-center flex px-10'>
       <FotoDiri/>
       <DeskripsiDiri/>
